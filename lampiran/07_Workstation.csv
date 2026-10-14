@@ -1,0 +1,4 @@
+workstation_name,hour_rate,electricity_cost,rent_cost,labor_cost,description
+WS-PREP (Dapur Persiapan),25000,3000,5000,17000,Meja stainless steel untuk trimming daging ayam, penimbangan bahan, dan marinasi
+WS-COOK (Dapur Masak & Goreng),35000,10000,5000,20000,Area rice cooker gas komersial dan deep fryer otomatis untuk penggorengan
+WS-PACK (Meja Perakitan & Packing),20000,2000,4000,14000,Meja stainless conveyor manual untuk plating ke bento box, penutupan mika, dan labelling

@@ -1,0 +1,14 @@
+stock_entry_type,item_code,qty,uom,basic_rate,t_warehouse
+Material Receipt,RM-BRS-001,50.0,Kilogram,16000,Gudang Bahan Baku - BM
+Material Receipt,RM-AYM-001,25.0,Kilogram,42000,Gudang Bahan Baku - BM
+Material Receipt,RM-TPG-001,10.0,Kilogram,24000,Gudang Bahan Baku - BM
+Material Receipt,RM-TLR-001,10.0,Kilogram,28000,Gudang Bahan Baku - BM
+Material Receipt,RM-MYK-001,20.0,Liter,18000,Gudang Bahan Baku - BM
+Material Receipt,RM-SAU-001,15.0,Liter,35000,Gudang Bahan Baku - BM
+Material Receipt,RM-SYR-001,15.0,Kilogram,15000,Gudang Bahan Baku - BM
+Material Receipt,RM-MAY-001,10.0,Liter,32000,Gudang Bahan Baku - BM
+Material Receipt,RM-BMB-001,5.0,Kilogram,30000,Gudang Bahan Baku - BM
+Material Receipt,PKG-BOX-001,300.0,Pcs,1800,Gudang Kemasan - BM
+Material Receipt,PKG-STK-001,300.0,Pcs,300,Gudang Kemasan - BM
+Material Receipt,PKG-SDK-001,200.0,Pcs,250,Gudang Kemasan - BM
+Material Receipt,PKG-KRT-001,20.0,Pcs,5000,Gudang Kemasan - BM

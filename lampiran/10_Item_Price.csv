@@ -1,0 +1,16 @@
+item_code,price_list,price_list_rate,currency
+RM-AYM-001,Standard Buying,42000,IDR
+RM-BRS-001,Standard Buying,16000,IDR
+RM-TPG-001,Standard Buying,24000,IDR
+RM-TLR-001,Standard Buying,28000,IDR
+RM-MYK-001,Standard Buying,18000,IDR
+RM-SAU-001,Standard Buying,35000,IDR
+RM-SYR-001,Standard Buying,15000,IDR
+RM-MAY-001,Standard Buying,32000,IDR
+RM-BMB-001,Standard Buying,30000,IDR
+PKG-BOX-001,Standard Buying,1800,IDR
+PKG-STK-001,Standard Buying,300,IDR
+PKG-SDK-001,Standard Buying,250,IDR
+PKG-KRT-001,Standard Buying,5000,IDR
+FG-BNT-001,Standard Selling,28000,IDR
+FG-BNT-002,Standard Selling,30000,IDR

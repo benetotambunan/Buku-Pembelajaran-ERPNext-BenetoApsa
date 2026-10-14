@@ -1,0 +1,6 @@
+warehouse_name,parent_warehouse,is_group,company
+Gudang Bahan Baku,All Warehouses,0,PT Bento Kreasi Nusantara
+Gudang Kemasan,All Warehouses,0,PT Bento Kreasi Nusantara
+Gudang Produksi WIP,All Warehouses,0,PT Bento Kreasi Nusantara
+Gudang Barang Jadi,All Warehouses,0,PT Bento Kreasi Nusantara
+Gudang Transit/Reject,All Warehouses,0,PT Bento Kreasi Nusantara

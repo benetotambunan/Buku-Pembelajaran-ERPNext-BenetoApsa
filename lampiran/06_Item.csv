@@ -1,0 +1,17 @@
+item_code,item_name,item_group,stock_uom,is_stock_item,include_item_in_manufacturing,is_purchase_item,is_sales_item,default_warehouse,valuation_rate,standard_rate,description
+RM-AYM-001,Daging Ayam Fillet Segar,Bahan Baku,Kilogram,1,1,1,0,Gudang Bahan Baku - BM,42000,42000,Daging fillet dada ayam segar tanpa kulit dan tulang
+RM-BRS-001,Beras Pulen Japonica,Bahan Baku,Kilogram,1,1,1,0,Gudang Bahan Baku - BM,16000,16000,Beras pulen standar resto bento jepang
+RM-TPG-001,Tepung Roti Panko Katsu,Bahan Baku,Kilogram,1,1,1,0,Gudang Bahan Baku - BM,24000,24000,Tepung roti kasar panko kualitas renyah
+RM-TLR-001,Telur Ayam Horn,Bahan Baku,Kilogram,1,1,1,0,Gudang Bahan Baku - BM,28000,28000,Telur ayam segar grade A isi 16 butir per kg
+RM-MYK-001,Minyak Goreng Sawit,Bahan Baku,Liter,1,1,1,0,Gudang Bahan Baku - BM,18000,18000,Minyak goreng kelapa sawit jernih kemasan jerigen
+RM-SAU-001,Saus Katsu & Teriyaki,Bahan Baku,Liter,1,1,1,0,Gudang Bahan Baku - BM,35000,35000,Saus gurih manis katsu & teriyaki khas bento
+RM-SYR-001,Sayur Campur Kol & Wortel,Bahan Baku,Kilogram,1,1,1,0,Gudang Bahan Baku - BM,15000,15000,Irisan kol putih dan wortel segar siap racik
+RM-MAY-001,Saus Mayones Dressing,Bahan Baku,Liter,1,1,1,0,Gudang Bahan Baku - BM,32000,32000,Dressing mayones gurih untuk salad bento
+RM-BMB-001,Racikan Bumbu Marinasi,Bahan Baku,Kilogram,1,1,1,0,Gudang Bahan Baku - BM,30000,30000,Bumbu garam lada bawang putih marinasi daging
+PKG-BOX-001,Bento Box Sekat 4 + Tutup,Kemasan,Pcs,1,1,1,0,Gudang Kemasan - BM,1800,1800,Kotak makan plastik tebal bento sekat 4 warna hitam tutup mika
+PKG-STK-001,Sumpit Bambu Higienis,Kemasan,Pcs,1,1,1,0,Gudang Kemasan - BM,300,300,Sumpit bambu steril berbungkus kertas individual
+PKG-SDK-001,Sendok Plastik Bening,Kemasan,Pcs,1,1,1,0,Gudang Kemasan - BM,250,250,Sendok makan plastik higienis kemasan satuan
+PKG-KRT-001,Kardus Master Box (Isi 25),Kemasan,Pcs,1,1,1,0,Gudang Kemasan - BM,5000,5000,Kardus master box tebal untuk pengiriman 25 bento box
+WIP-KTS-001,Fillet Ayam Katsu Siap Goreng,Produk Setengah Jadi,Pcs,1,1,0,0,Gudang Produksi WIP - BM,6500,6500,Potongan fillet ayam marinasi berbalut tepung panko (WIP)
+FG-BNT-001,Bento Box Paket Chicken Katsu,Produk Jadi,Box,1,1,0,1,Gudang Barang Jadi - BM,16500,28000,Paket lengkap: Nasi bento, Chicken Katsu renyah, salad sayur mayo, saus katsu, bento box & sumpit
+FG-BNT-002,Bento Box Paket Chicken Teriyaki,Produk Jadi,Box,1,1,0,1,Gudang Barang Jadi - BM,17500,30000,Paket lengkap: Nasi bento, Tumis Chicken Teriyaki manis gurih, salad sayur mayo, bento box & sendok

@@ -1,0 +1,27 @@
+bom_type,parent_item,child_item_code,child_item_name,qty,uom,unit_rate,total_cost,operation,workstation,time_in_mins
+BOM Item,FG-BNT-001,RM-BRS-001,Beras Pulen Japonica,0.100,Kilogram,16000,1600,,,
+BOM Item,FG-BNT-001,RM-AYM-001,Daging Ayam Fillet Segar,0.120,Kilogram,42000,5040,,,
+BOM Item,FG-BNT-001,RM-TPG-001,Tepung Roti Panko Katsu,0.030,Kilogram,24000,720,,,
+BOM Item,FG-BNT-001,RM-TLR-001,Telur Ayam Horn,0.025,Kilogram,28000,700,,,
+BOM Item,FG-BNT-001,RM-MYK-001,Minyak Goreng Sawit,0.040,Liter,18000,720,,,
+BOM Item,FG-BNT-001,RM-SAU-001,Saus Katsu & Teriyaki,0.030,Liter,35000,1050,,,
+BOM Item,FG-BNT-001,RM-SYR-001,Sayur Campur Kol & Wortel,0.050,Kilogram,15000,750,,,
+BOM Item,FG-BNT-001,RM-MAY-001,Saus Mayones Dressing,0.020,Liter,32000,640,,,
+BOM Item,FG-BNT-001,RM-BMB-001,Racikan Bumbu Marinasi,0.010,Kilogram,30000,300,,,
+BOM Item,FG-BNT-001,PKG-BOX-001,Bento Box Sekat 4 + Tutup,1.000,Pcs,1800,1800,,,
+BOM Item,FG-BNT-001,PKG-STK-001,Sumpit Bambu Higienis,1.000,Pcs,300,300,,,
+BOM Operation,FG-BNT-001,,,,,,OP-PREPARATION,WS-PREP (Dapur Persiapan),3
+BOM Operation,FG-BNT-001,,,,,,OP-COOKING,WS-COOK (Dapur Masak & Goreng),4
+BOM Operation,FG-BNT-001,,,,,,OP-PACKAGING,WS-PACK (Meja Perakitan & Packing),2
+BOM Item,FG-BNT-002,RM-BRS-001,Beras Pulen Japonica,0.100,Kilogram,16000,1600,,,
+BOM Item,FG-BNT-002,RM-AYM-001,Daging Ayam Fillet Segar,0.130,Kilogram,42000,5460,,,
+BOM Item,FG-BNT-002,RM-SAU-001,Saus Katsu & Teriyaki,0.050,Liter,35000,1750,,,
+BOM Item,FG-BNT-002,RM-MYK-001,Minyak Goreng Sawit,0.020,Liter,18000,360,,,
+BOM Item,FG-BNT-002,RM-SYR-001,Sayur Campur Kol & Wortel,0.050,Kilogram,15000,750,,,
+BOM Item,FG-BNT-002,RM-MAY-001,Saus Mayones Dressing,0.020,Liter,32000,640,,,
+BOM Item,FG-BNT-002,RM-BMB-001,Racikan Bumbu Marinasi,0.010,Kilogram,30000,300,,,
+BOM Item,FG-BNT-002,PKG-BOX-001,Bento Box Sekat 4 + Tutup,1.000,Pcs,1800,1800,,,
+BOM Item,FG-BNT-002,PKG-SDK-001,Sendok Plastik Bening,1.000,Pcs,250,250,,,
+BOM Operation,FG-BNT-002,,,,,,OP-PREPARATION,WS-PREP (Dapur Persiapan),3
+BOM Operation,FG-BNT-002,,,,,,OP-COOKING,WS-COOK (Dapur Masak & Goreng),4
+BOM Operation,FG-BNT-002,,,,,,OP-PACKAGING,WS-PACK (Meja Perakitan & Packing),2
